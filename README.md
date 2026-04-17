@@ -2,7 +2,7 @@
 GitHub üzerindeki ilk projem.
 
 ## Hakkında
-** Bu açık kaynaklı ve her ekranda çalışabilen bir işletim sistemidir.
+Bu açık kaynaklı ve her ekranda çalışabilen bir işletim sistemidir.
 
 ### Özellikler:
 * 6 tane uygulama
